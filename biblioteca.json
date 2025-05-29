@@ -1,0 +1,116 @@
+[
+    {
+        "titulo": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "año": 1967,
+        "ISBN": "978-3-16-148410-0"
+    },
+    {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "año": 1605,
+        "ISBN": "978-1-23-456789-7"
+    },
+    {
+        "titulo": "La casa de los espíritus",
+        "autor": "Isabel Allende",
+        "año": 1982,
+        "ISBN": "978-0-12-345678-9"
+    },
+    {
+        "titulo": "El amor en los tiempos del cólera",
+        "autor": "Gabriel García Márquez",
+        "año": 1985,
+        "ISBN": "978-4-56-789012-3"
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "año": 1949,
+        "ISBN": "978-0-452-28423-4"
+    },
+    {
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "año": 1813,
+        "ISBN": "978-0-14-143951-8"
+    },
+    {
+        "titulo": "El Gran Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "año": 1925,
+        "ISBN": "978-0-7432-7356-5"
+    },
+    {
+        "titulo": "Matar a un ruiseñor",
+        "autor": "Harper Lee",
+        "año": 1960,
+        "ISBN": "978-0-06-112008-4"
+    },
+    {
+        "titulo": "Crimen y castigo",
+        "autor": "Fyodor Dostoevsky",
+        "año": 1866,
+        "ISBN": "978-0-486-41587-1"
+    },
+    {
+        "titulo": "Anna Karenina",
+        "autor": "Leo Tolstoy",
+        "año": 1877,
+        "ISBN": "978-0-14-044917-8"
+    },
+    {
+        "titulo": "Ulises",
+        "autor": "James Joyce",
+        "año": 1922,
+        "ISBN": "978-0-679-72439-4"
+    },
+    {
+        "titulo": "Moby Dick",
+        "autor": "Herman Melville",
+        "año": 1851,
+        "ISBN": "978-0-14-243724-7"
+    },
+    {
+        "titulo": "En busca del tiempo perdido",
+        "autor": "Marcel Proust",
+        "año": 1913,
+        "ISBN": "978-0-14-044990-1"
+    },
+    {
+        "titulo": "Guerra y paz",
+        "autor": "Leo Tolstoy",
+        "año": 1869,
+        "ISBN": "978-0-14-044793-8"
+    },
+    {
+        "titulo": "Las aventuras de Huckleberry Finn",
+        "autor": "Mark Twain",
+        "año": 1884,
+        "ISBN": "978-0-486-28061-0"
+    },
+    {
+        "titulo": "Alicia en el país de las maravillas",
+        "autor": "Lewis Carroll",
+        "año": 1865,
+        "ISBN": "978-0-14-132034-7"
+    },
+    {
+        "titulo": "Jane Eyre",
+        "autor": "Charlotte Brontë",
+        "año": 1847,
+        "ISBN": "978-0-14-143957-0"
+    },
+    {
+        "titulo": "Un mundo feliz",
+        "autor": "Aldous Huxley",
+        "año": 1932,
+        "ISBN": "978-0-06-085052-0"
+    },
+    {
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "año": 1953,
+        "ISBN": "978-1-4516-7331-9"
+    }
+]
