@@ -1,6 +1,13 @@
 import json
+import os
+from pathlib import Path
 
-DATA_FILE = "biblioteca.json"
+# Obtener la ruta del directorio donde se ejecuta el script
+SCRIPT_DIR = Path(__file__).resolve().parent
+# Definir la ruta completa al archivo de datos
+DATA_FILE = SCRIPT_DIR / "biblioteca.json"
+
+
 
 def load_libros():
 
